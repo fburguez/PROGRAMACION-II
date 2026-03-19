@@ -19,7 +19,8 @@ Este equipo se encarga de realizar las actividades propuestas para la materia **
 
 ### 🧑‍💻 Facundo
 
-![TuFoto](https://via.placeholder.com/150)
+![descarga](https://github.com/user-attachments/assets/ef535163-8894-46dd-ae56-d729c2012146)
+
 
 * 📚 Rol: (ej: Backend / Frontend / Testing)
 * 💡 Descripción: (qué hacés en el equipo)
