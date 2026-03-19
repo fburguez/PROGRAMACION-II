@@ -68,5 +68,34 @@ Desarrollar implementaciones eficientes y correctas de las actividades propuesta
 
 # 🛠️ Desarrollo
 
-## Actividad clase 2 - 19/03/26
+## Actividad 1 clase 2 - 19/03/26
+<p align="center">
 <img src="img/Pila.jpg" width="516" height="303" style="border-radius:50%;"><br>
+</p>
+
+## Actividad 2 clase 2 - 19/03/26
+<p>
+Estrategia 1: Se reserva una variable auxiliar que puede utilizarse con 2 fines diferentes. Puede almacenar la cantidad (tamaño) del arreglo o el valor del tope (último valor en orden). Aquí cada dato que se añade se coloca en la posicion siguiente a la del tope actual, convirtiendose el nuevo valor en el tope, sin necesidad de mover los demás elementos. 
+</p>p<br>
+
+<p align="center">
+<img src="img/Estrategia1.png" width="716" height="235" style="border-radius:50%;"><br>
+</p>
+
+<p>
+Estrategia 2: Aquí se útiliza también una variable auxiliar, pero en este caso solo tiene un fin, almacenar el tamaño del arreglo. En esta estrategia los datos van en orden contrario, es decir, el tope es el primer elemento, y nunca varía en posición. Esto quiere decir que cada vez que se añade un dato, se coloca en la primera posición, y el resto de los datos se mueven una posición, lo que lo hace muy costoso en términos de rendimiento. 
+</p>
+
+<p align="center">
+<img src="img/Estrategia2.png" width="721" height="231" style="border-radius:50%;"><br>
+</p>
+
+<p>
+Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se reserva la primer posición para almacenar el valor del tamaño del arreglo, mientras que el resto de posiciones funcionan igual que en la estrategia 1. 
+</p>
+
+<p align="center">
+<img src="img/Estrategia3.png" width="720" height="231" style="border-radius:50%;"><br>
+</p>
+
+</p>
