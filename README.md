@@ -32,7 +32,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 <p align="center">
   <b>Darío Gomez</b><br>
-  <img src="img/gomez_foto.jpg" width="120" style="border-radius: 15px;">  
+  <img src="img/gomez_foto.jpeg" width="120" style="border-radius: 15px;">  
   Enfocado en implementación y validación de soluciones.
 </p>
 
