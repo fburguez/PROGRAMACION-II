@@ -69,3 +69,4 @@ Desarrollar implementaciones eficientes y correctas de las actividades propuesta
 # 🛠️ Desarrollo
 
 ## Actividad clase 2 - 19/03/26
+<img src="img/Pila.jpg" width="516" height="303" style="border-radius:50%;"><br>
