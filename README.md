@@ -1,4 +1,4 @@
-![MuaKissGIF](https://github.com/user-attachments/assets/41a755b5-9e3d-4e2c-b7c5-a0c6b798ac59)# 📌 PROGRAMACIÓN II
+📌 PROGRAMACIÓN II
 
 ## 📖 Descripción
 Este proyecto tiene como objetivo desarrollar y resolver las actividades propuestas en la materia **Programación II**, aplicando conceptos de estructuras de datos, abstracción y buenas prácticas de programación.
@@ -23,7 +23,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 <p align="center">
   <b>Nicolás Fresca</b><br><br>
 
-  <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+  <div style="width:15px; height:15px; border-radius:50%; overflow:hidden; margin:auto;">
     <img src="img/Fresca_Foto.jpg" style="width:100%; height:100%; object-fit:cover;">
   </div>
 
@@ -36,7 +36,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 <p align="center">
   <b>Facundo Burguez</b><br><br>
 
-  <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+  <div style="width:15px; height:15px; border-radius:50%; overflow:hidden; margin:auto;">
     <img src="img/Facundo_Burguez.jpg" style="width:100%; height:100%; object-fit:cover;">
   </div>
 
@@ -49,7 +49,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 <p align="center">
   <b>Tomás Lihuel Rodríguez Fernández Otero</b><br><br>
 
-  <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+  <div style="width:15px; height:15px; border-radius:50%; overflow:hidden; margin:auto;">
     <img src="img/Tomas_Foto.jpg.jpeg" style="width:100%; height:100%; object-fit:cover;">
   </div>
 
@@ -62,7 +62,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 <p align="center">
   <b>Darío Gomez</b><br><br>
 
-  <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+  <div style="width:15px; height:15px; border-radius:50%; overflow:hidden; margin:auto;">
     <img src="img/gomez_foto.jpeg" style="width:100%; height:100%; object-fit:cover;">
   </div>
 
@@ -75,7 +75,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 <p align="center">
   <b>Vacante</b><br><br>
 
-  <div style="width:120px; height:120px; border-radius:50%; overflow:hidden; margin:auto;">
+  <div style="width:15px; height:15px; border-radius:50%; overflow:hidden; margin:auto;">
     <img src="img/placeholder.txt" style="width:100%; height:100%; object-fit:cover;">
   </div>
 
